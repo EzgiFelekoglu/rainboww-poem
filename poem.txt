@@ -5,4 +5,5 @@ Pink
 Orrande
 Red
 Blue
+Green
 These are the colors of the rainbow.
